@@ -1,0 +1,22 @@
+{
+  "name": "js-sort",
+  "version": "1.0.0",
+  "description": "JavaScript Sort Utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "benchmark": "node ./test/benchmark"
+  },
+  "keywords": [
+    "JS",
+    "sort",
+    "merge",
+    "sort"
+  ],
+  "author": "Martin Jujou",
+  "license": "ISC",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "mocha": "^5.2.0"
+  }
+}
